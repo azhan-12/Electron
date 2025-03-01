@@ -1,0 +1,23 @@
+.carousel-inner{
+    padding-top: 55px;
+}
+
+.container{
+    padding-top: 55px;
+}
+.row{
+    padding-top: 55px;
+}
+.col-lg-4{
+    padding-top: 55px;
+}
+
+.carousel-caption h5{
+    color: white;
+    font-size: 30px;
+}
+
+.carousel-caption p{
+    color: white;
+    font-size: 20px;
+}
